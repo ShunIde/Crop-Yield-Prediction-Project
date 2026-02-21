@@ -1,0 +1,1 @@
+Even using rudimentary data analysis techniques, we can create machine learning models that could be used to predict a particular metric. This projects involves building a model that predicts corn yield in Indiana using weather data going back 30 years.
